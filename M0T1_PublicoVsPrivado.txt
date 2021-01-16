@@ -1,0 +1,11 @@
+
+
+En el repositorio publico tiene acceso cualquier persona que temga el link mientras que en el privado no se puede compartir este repositorio
+
+Si su aplicación es de código cerrado, debería ir en un repositorio privado. Los derechos de autor pueden protegerlo legalmente, pero si alguien decide robar su código, es probable que no le importe. Entonces depende de usted poder encontrar a estas personas, ser capaz de identificar que han usado su código fuente en su solicitud y probárselo a un juez.
+
+Esto es especialmente problemático si estás haciendo algo nuevo. Tal vez haya creado un nuevo algoritmo de ordenación, o servicios web o API combinados de una manera que aún no se ha hecho. Está liberando su solicitud por dinero y dejando una guía de instrucciones completa en línea para que todos la vean, dañando significativamente su ventaja competitiva.
+
+Si está manejando la seguridad del usuario de cualquier manera, cualquier error que haya cometido (y tendrá) será mucho más fácil de encontrar y explotar si los atacantes pueden leer su código fuente. Algunos repositorios en línea tienen rastreadores de errores: la gente puede seguir eso, y los señalará directamente a las vulnerabilidades que se han encontrado, y tendrá una ventana para aprovecharlos (el tiempo que le toma arreglar los errores, y para sus usuarios para aplicar un parche).
+
+También debo mencionar que si tiene un equipo de cinco personas o menos, puede alojar su código en privado con BitBucket de forma gratuita.
